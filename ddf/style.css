@@ -1,0 +1,6 @@
+.saludo {
+    display: flex;
+    justify-content: center;
+    color: aquamarine;
+    background-color: brown;
+}
